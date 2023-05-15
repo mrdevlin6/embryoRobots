@@ -1,4 +1,4 @@
-#Method for 4-unit intercalation
+//Method for 4-unit intercalation
 
 #include <Wire.h>
 #include <Adafruit_INA219.h>
