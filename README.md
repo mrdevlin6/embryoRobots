@@ -12,7 +12,7 @@ TODOS:
 6. 3-unit critical force at 110PWM and increasing fluctuations
 
 **Supplemental information**
-1. Three different fluctuation signals to decide final signal
+1. ~~Three different fluctuation signals to decide final signal~~
 2. Torque for a single robot
 3. Full rendering of robot with part callouts
 4. Force characterization of unit-unit attraction
@@ -25,6 +25,5 @@ TODOS:
 3. PCB files
 4. Energy/light datalogger code
 5. Energy/light documentation
-6. Datalogger code -> energy plotting code
-7. Individual cell code - Square wave Gaussian distribution
-8. Individual cell code - Constant signal
+6. ~~Datalogger code -> energy plotting code~~
+7. Individual cell code with tunable amplitude fluctuations
