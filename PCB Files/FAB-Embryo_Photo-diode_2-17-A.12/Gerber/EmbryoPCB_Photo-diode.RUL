@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\mrdev\AppData\Local\TempReleases\Snapshot\1\EmbryoPCB_Photo-diode.CMPcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

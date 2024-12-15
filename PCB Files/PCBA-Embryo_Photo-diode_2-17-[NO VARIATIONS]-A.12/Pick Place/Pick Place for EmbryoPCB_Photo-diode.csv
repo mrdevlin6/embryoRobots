@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\Users\mrdev\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for EmbryoPCB_Photo-diode.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/03/22
+Time:       12:43
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"D7","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","3.6084mm","34.0084mm","90","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"D8","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","12.0084mm","55.0084mm","45","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"Probe","TE Connectivity / AMP 3-641215-3","TopLayer","PCB-6wtyvow7wwcldc106e53-1","11.9674mm","34.7004mm","90","Connector Wire to Board Header 3 Position 2.54mm Solder Straight Thru-Hole"
+"Q2","ON Semiconductor FDS5670","TopLayer","PCB-ivtzqriy3c14275itzi3-1","55.7824mm","29.6204mm","90","N-Channel 60 V 14 mOhm SMT PowerTrench Mosfet SOIC-8"
+"D1","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","34.3359mm","64.3834mm","0","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"U2","LM324DR2G","TopLayer","LM324","42.1934mm","16.2854mm","0","Single Supply Quad Operational Amplifier, 3 to 32 V, 0 to 70 degC, 14-Pin SOIC, Pb-Free, Tape and Reel"
+"U1","LM324DR2G","TopLayer","LM324","41.8124mm","47.0194mm","0","Single Supply Quad Operational Amplifier, 3 to 32 V, 0 to 70 degC, 14-Pin SOIC, Pb-Free, Tape and Reel"
+"SENSE ON1","Switch","TopLayer","C&K_Components_1101M2S3CQE2-Footprint-1","24.7944mm","48.6704mm","90","Switch Slide ON None ON SPDT Top Slide 6A 250VAC 28VDC PC Pins Thru-Hole Bulk"
+"R8","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","44.2254mm","23.0164mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R7","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","43.9714mm","32.7954mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R6","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","39.9074mm","22.8894mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R5","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","39.6534mm","32.9224mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R4","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","43.9714mm","27.9694mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R3","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","44.0984mm","38.0024mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R2","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","39.7804mm","27.8424mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"R1","TE Connectivity CRGCQ0402F470K","TopLayer","PCB-8tuutlkq7p1aj3t2dfdp-1","39.7804mm","38.1294mm","0","Res Thick Film 0402 470K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD Automotive T/R"
+"PWR","Switch","TopLayer","C&K_Components_1101M2S3CQE2-Footprint-1","24.7944mm","40.6694mm","270","Switch Slide ON None ON SPDT Top Slide 6A 250VAC 28VDC PC Pins Thru-Hole Bulk"
+"MC1","SparkFun ROB-13845","TopLayer","TB6612FNG","23.1434mm","25.8104mm","0","TB6612FNG Motor Driver Board"
+"M2","Motor mounting pads","TopLayer","New_footprint_1","61.7248mm","45.4889mm","292.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M8","Motor mounting pads","TopLayer","New_footprint_1","22.5279mm","61.7248mm","22.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M4","Motor mounting pads","TopLayer","New_footprint_1","45.4889mm","6.2920mm","202.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M6","Motor mounting pads","TopLayer","New_footprint_1","6.2920mm","22.5279mm","112.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M7","Motor mounting pads","TopLayer","New_footprint_1","6.2920mm","45.4889mm","67.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M5","Motor mounting pads","TopLayer","New_footprint_1","22.5279mm","6.2920mm","157.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M3","Motor mounting pads","TopLayer","New_footprint_1","61.7248mm","22.5279mm","247.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"M1","Motor mounting pads","TopLayer","New_footprint_1","45.4889mm","61.7248mm","337.5","https://www.aliexpress.com/i/32655353303.html, 3V"
+"A1","=Value","TopLayer","PCB-djo2kohhk2l0t1bx5udn-1","41.8824mm","33.3474mm","0","Nano 3.0 Atmel Atmega 328 MCU board placed on 8.4mm high female headers"
+"ERM1","ERM Motor Mount","TopLayer","PCB-l2lf4iprv05hfms8uvfl-1","55.7824mm","42.0664mm","90","Througholes for 25mm ERM motor"
+"D6","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","12.2985mm","12.7616mm","135","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"D5","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","33.6809mm","3.6334mm","180","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"D4","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","55.2552mm","12.2985mm","225","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"D3","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","64.3834mm","33.6809mm","270","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"D2","Osram Opto BPW 34 S-Z","TopLayer","PCB-u3l9kgsljwenhcsxbo5j-1","55.7183mm","55.2552mm","315","Photodiode PIN Chip 850nm 0.62A/W Sensitivity 2-Pin DIL SMT"
+"BT2","throughole Lipo","TopLayer","PCB-rfcdqsqczebt5l0rgh1x-1","23.5244mm","55.1474mm","0","two holes for battery attachment"
+"BT1","throughole Lipo","TopLayer","PCB-rfcdqsqczebt5l0rgh1x-1","29.8744mm","55.2744mm","0","two holes for battery attachment"
